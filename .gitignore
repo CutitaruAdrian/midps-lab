@@ -33,6 +33,7 @@ doc/**/*.pdf
 *.~dfm
 *.~bpr
 *.dfm
+*.h
 
 # Visual C++ cache files
 ipch/
