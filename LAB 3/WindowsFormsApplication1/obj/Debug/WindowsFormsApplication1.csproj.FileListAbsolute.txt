@@ -25,3 +25,6 @@ E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplicati
 E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 E:\UTM\midps labs\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\UTM\midps\LAB 3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\UTM\midps\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\UTM\midps\LAB 3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
